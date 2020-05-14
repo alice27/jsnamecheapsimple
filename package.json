@@ -1,0 +1,19 @@
+{
+  "name": "jsnamecheapsimple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alice27/jsnamecheapsimple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alice27/jsnamecheapsimple/issues"
+  },
+  "homepage": "https://github.com/alice27/jsnamecheapsimple#readme"
+}
